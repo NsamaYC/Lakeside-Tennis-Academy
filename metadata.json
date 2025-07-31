@@ -1,0 +1,6 @@
+{
+  "name": "Tennis Pro Coach Splash",
+  "description": "A splash screen for a tennis coaching application that handles user authentication and routing. It features a modern design with a loading animation while checking the user's session status and navigates to the appropriate screen upon completion.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
